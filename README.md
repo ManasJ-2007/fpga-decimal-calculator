@@ -41,5 +41,7 @@ Open `src/task3_calculator/Task_3.qpf` in Quartus Prime Lite 18.1 (MAX 10, 10M08
 
 ## Who did what
 
-- **Sashreek Sikder:** VHDL coding of the modules, FSM design (keypad, display, calculator, EXECUTE phases), state diagrams, report.
-- **Manas Jagtap:** debugging the design and code, simulation, hardware testing on the FPGA board, and verification against the handout test cases.
+Both of us wrote VHDL code for the project.
+
+- **Sashreek Sikder:** VHDL coding, FSM design (keypad, display, calculator, EXECUTE phases), state diagrams, report.
+- **Manas Jagtap:** VHDL coding, debugging the design and code, simulation, hardware testing on the FPGA board, and verification against the handout test cases.
